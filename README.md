@@ -1,6 +1,6 @@
 # layout-comercial
 
-**layout-comercial** é um template para aplicação em sites ou sistemas web.
+**layout-comercial** it's a commercial template to use in web applications and web sites. 
 
   - HTML5
   - CSS3
@@ -10,7 +10,7 @@
   
   ### Todos
 
- - Definir estrutura
- - Cores padrão
- - Experiência do usuário
- - Testes
+ - Define structre
+ - Standard Colors
+ - UI / UX
+ - Tests
